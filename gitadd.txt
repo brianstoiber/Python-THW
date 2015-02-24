@@ -8,7 +8,7 @@ Verify files to current stage:
 
 Commit files to current stage: 
 
-	git commit -m "some message goes here"
+	git commit -m "commit message"
 
 Push files to current repository:
 
