@@ -1,0 +1,15 @@
+Add files to current stage:
+
+	git add .
+
+Verify files to current stage:
+
+	git status
+
+Commit files to current stage: 
+
+	git commit -m "some message goes here"
+
+Push files to current repository:
+
+	git push origin master
